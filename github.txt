@@ -1,0 +1,4 @@
+GitHub е платформа за работа с Git repositories. 
+git push изпраща локални commits към GitHub. 
+git pull получава промени от remote repository. 
+git clone създава локално копие на съществуващо repository.
